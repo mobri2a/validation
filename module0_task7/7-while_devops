@@ -1,0 +1,6 @@
+#!/bin/bash
+devops=10
+while [ $devops -gt 0 ] ; do
+    echo DevOps
+    devops=$[$devops-1]
+done
