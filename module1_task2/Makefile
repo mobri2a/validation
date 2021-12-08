@@ -9,5 +9,6 @@ post:   ## Add a new blog post
 help:
 	@echo "build: Create the static web site in dist/"
 	@echo "clean: Clean remove all files from the distribution folder"
+	@echo "clear: We suck so bad at QA"
 	@echo "POST_NAME=<file_name> POST_TITLE=<file_title> post: Add a new blog post"
 	@echo "help: Display makefile help"
